@@ -158,3 +158,6 @@ description, and after a refresh the trigger has filled it in.
 ## Tech stack
 
 MySQL 8.0+ / MariaDB 10.2.1+ · pure SQL (DDL, DML, views, triggers)
+
+## Project Context
+This database system was designed and developed as a university project for a Database Management Systems coursework module. It demonstrates practical implementation of 3NF schema normalization, data integrity constraints, advanced SQL queries, triggers, and analytical views.
